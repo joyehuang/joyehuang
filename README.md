@@ -12,3 +12,5 @@
 joyehuang/joyehuang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.2.0
