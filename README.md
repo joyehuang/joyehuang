@@ -1,4 +1,4 @@
-# Hi there, I'm Joye Huang (黄得修) 👋
+# Hi there, I'm Joye 👋
 
 <div align="center">
   
@@ -10,7 +10,7 @@
 
 🎓 **Year 2 Student** @ University of Melbourne (QS Top 20) - Computer & Software Engineering
 
-💼 **AIGC Development Intern** @ Tezign (特赞)
+💼 **AIGC Development Intern**
 
 💡 I'm passionate about building AI-powered applications and elegant solutions to complex problems. When I'm not coding, you'll find me playing the cello or exploring new technologies.
 
