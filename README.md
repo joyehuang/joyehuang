@@ -67,6 +67,27 @@ A full-stack web application that provides **voice-driven interview simulation**
 
 **Tech Stack:** Next.js · React · Firebase · Gemini AI · Vapi Voice SDK · TypeScript
 
+## ✨ Project Experience
+
+### 🧠 Atypica - 商业研究多智能体
+
+[![Atypica](https://img.shields.io/badge/Website-atypica.ai-5B6CFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atypica.ai)
+
+- 🧭 Designed distributed multi-agent orchestration and communication with Function Calling/Tool Schema, enabling streaming pipelines with queue/event-driven routing, de-duplication, watermarking, resumption, and observability.
+- 🧩 Built long-context pipelines (memory tiers, summarization, retrieval stitching, token budget control) with prompt templating and guardrails for consistent outputs.
+- 🧬 Developed social-data-driven persona modeling (Profile/Behavior/Motivation) for personalized generation and preference alignment under goal constraints.
+- ❓ Implemented counter-questioning for intent clarification to convert ambiguous requirements into structured constraints (goals, audience, style, limits).
+- ⚙️ Delivered async tool-calling runtime (checkpoint, retries, idempotency, timeout/rollback, recovery) plus offline replay/evaluation harnesses.
+- 🔒 Ensured production-grade delivery with schema validation, modular architecture, auto-generated diagnostic HTML reports, and AWS Marketplace SaaS Contract integration from subscription → permissions/quota → delivery.
+
+### 🧠 MiniMind Notes - 一站式大模型学习笔记
+
+[![GitHub](https://img.shields.io/badge/GitHub-minimind--notes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyehuang/minimind-notes)
+[![Docs](https://img.shields.io/badge/Docs-minimind--notes-0F7B6C?style=for-the-badge&logo=vitepress&logoColor=white)](https://minimind-notes.vercel.app/)
+
+- 📚 Curated a structured learning note series for LLM foundations and practical workflows.
+- 🧱 Built a VitePress-based one-stop tutorial site for fast navigation and continuous updates.
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -100,7 +121,8 @@ A full-stack web application that provides **voice-driven interview simulation**
 
 ## 💼 Professional Experience
 
-- 🔬 **AIGC Development Intern** @ Tezign (特赞) - Contributing to AI-generated content solutions
+- 🔬 **AIGC 研发实习生（AI Agent & 全栈）** @ Tezign (特赞) · Shanghai · Oct 2025 - Present  
+  Building AI Agent systems and full-stack features for AIGC products. [https://m.tezign.com/home](https://m.tezign.com/home)
 - 🎓 **Computer Science Student** @ University of Melbourne - Focusing on algorithms, data structures, and full-stack development
 - 📝 **Tech Blogger** @ [joyehuang.me](https://joyehuang.me) - Sharing knowledge and practical experiences
 
