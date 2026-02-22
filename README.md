@@ -20,35 +20,14 @@
 - 🌱 Always learning and growing as a developer
 - ⚡ Fun fact: I change my wallpaper daily for motivation!
 
-## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 💼 Professional Experience
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
-
-### AI & Tools
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
+- 🔬 **AIGC 研发实习生（AI Agent & 全栈）** @ Tezign (特赞) · Shanghai · Oct 2025 - Present  
+  Building AI Agent systems and full-stack features for AIGC products. [https://m.tezign.com/home](https://m.tezign.com/home)
+- 🎓 **Computer Science Student** @ University of Melbourne - Focusing on algorithms, data structures, and full-stack development
+- 📝 **Tech Blogger** @ [joyehuang.me](https://joyehuang.me) - Sharing knowledge and practical experiences
+  
 ## 🚀 Featured Project
 
 ### 🎤 PrepWise - AI Voice Interview Simulation Platform
@@ -87,44 +66,6 @@ A full-stack web application that provides **voice-driven interview simulation**
 
 - 📚 Curated a structured learning note series for LLM foundations and practical workflows.
 - 🧱 Built a VitePress-based one-stop tutorial site for fast navigation and continuous updates.
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=joyehuang&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Joye's GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyehuang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=joyehuang&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=joyehuang&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Joye's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joyehuang&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 💼 Professional Experience
-
-- 🔬 **AIGC 研发实习生（AI Agent & 全栈）** @ Tezign (特赞) · Shanghai · Oct 2025 - Present  
-  Building AI Agent systems and full-stack features for AIGC products. [https://m.tezign.com/home](https://m.tezign.com/home)
-- 🎓 **Computer Science Student** @ University of Melbourne - Focusing on algorithms, data structures, and full-stack development
-- 📝 **Tech Blogger** @ [joyehuang.me](https://joyehuang.me) - Sharing knowledge and practical experiences
 
 ## 🌐 Connect With Me
 
