@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Year 2 Student** @ University of Melbourne (QS Top 20) - Computer & Software Engineering
+🎓 **Year 2 Student** @ University of Melbourne - Computer & Software Engineering
 
 💼 **AIGC Development Intern**
 
