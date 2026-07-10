@@ -1,90 +1,41 @@
-# Hi there, I'm Joye 👋
+# Hi, I'm Joye 👋
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+%26+Software+Engineering+Student;AIGC+Development+Intern+%40+Tezign;Full+Stack+Developer;React+%26+Next.js+Enthusiast;Algorithm+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Agent+Full-Stack+Engineer;Context%2FHarness+Engineering;Building+my+own+Clone+Agent)](https://git.io/typing-svg)
 
-</div>
+## About
 
-## 👨‍💻 About Me
+CS & Software Engineering @ University of Melbourne, graduating 2027. Currently interning as an Agent engineer across two agent-native products — Tezign's [Atypica](https://atypica.ai) and playyy.ai — focused on agent architecture, context engineering, and harness design.
 
-🎓 **Year 2 Student** @ University of Melbourne - Computer & Software Engineering
+I write long-form technical breakdowns on Agent engineering at [joyehuang.me](https://joyehuang.me), and build my open-source explainers in the open.
 
-💼 **AIGC Development Intern**
+## Currently
 
-💡 I'm passionate about building AI-powered applications and elegant solutions to complex problems. When I'm not coding, you'll find me playing the cello or exploring new technologies.
+- 🧬 **Clone Agent** — building a personal digital twin as a unified agent foundation, using months of interview transcripts, blog posts, and livestreams as core context
+- 🏆 **Summer of Agents 2026** — organizing a community hackathon for Agent engineering, with tracks from onboarding to game-playing agents
 
-- 🔭 Currently working on **AI-driven web applications**
-- 💻 Experienced in **React**, **Next.js**, and **TypeScript**
-- 🤖 Interested in **AI integration** and **full-stack development**
-- 🌱 Always learning and growing as a developer
-- ⚡ Fun fact: I change my wallpaper daily for motivation!
+## Building
 
+- **[minimind-notes](https://github.com/joyehuang/minimind-notes)** ⭐ 145 — build an LLM from scratch: Transformer, pretraining, SFT, with side-by-side ablation experiments
+- **[Learn-Open-Harness](https://github.com/joyehuang/Learn-Open-Harness)** ⭐ 19 — interactive 12-chapter tutorial on the Agent Loop architecture behind Claude Code, built the day after [OpenHarness](https://github.com/HKUDS/OpenHarness) (HKUDS) launched
 
-## 💼 Professional Experience
+## Latest write-up
 
-- 🔬 **AIGC 研发实习生（AI Agent & 全栈）** @ Tezign (特赞) · Shanghai · Oct 2025 - Present  
-  Building AI Agent systems and full-stack features for AIGC products. [https://m.tezign.com/home](https://m.tezign.com/home)
-- 🎓 **Computer Science Student** @ University of Melbourne - Focusing on algorithms, data structures, and full-stack development
-- 📝 **Tech Blogger** @ [joyehuang.me](https://joyehuang.me) - Sharing knowledge and practical experiences
-  
-## 🚀 Featured Project
+*["I spent a day reading OpenHarness's 11,733 lines of code"](https://www.joyehuang.me/blog/20260410---openharnessphase1/post)* — a walkthrough of the Agent Loop architecture behind Claude Code, from CLI boot to the loop's core.
 
-### 🎤 PrepWise - AI Voice Interview Simulation Platform
+## Experience
 
-[![PrepWise](https://img.shields.io/badge/View_Project-PrepWise-blue?style=for-the-badge&logo=github)](https://github.com/joyehuang/interview-prep)
+- **AIGC R&D Intern** @ Tezign · Oct 2025 – Present — Agent systems & full-stack work on Atypica
+- **Agent Engineer** @ playyy.ai (Canva-style AI design product, remote) — Present
+- Past: AIXCut (AI video-editing agent), fAIshion.ai
 
-A full-stack web application that provides **voice-driven interview simulation** with **real-time AI feedback** to enhance interview preparation.
+## Connect
 
-**Key Features:**
-- 🎯 Real-time voice recognition and synthesis using Vapi Voice SDK
-- 🤖 Dynamic question generation and semantic feedback powered by Google Gemini AI
-- 🔐 User authentication and session management with Firebase
-- 📊 Personalized review and feedback storage in Firestore
-- ⚡ Server-side rendering with Next.js App Router for optimal performance
-- 🏗️ Modular architecture for scalability and maintainability
-
-**Tech Stack:** Next.js · React · Firebase · Gemini AI · Vapi Voice SDK · TypeScript
-
-## ✨ Project Experience
-
-### 🧠 Atypica - 商业研究多智能体
-
-[![Atypica](https://img.shields.io/badge/Website-atypica.ai-5B6CFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atypica.ai)
-
-- 🧭 Designed distributed multi-agent orchestration and communication with Function Calling/Tool Schema, enabling streaming pipelines with queue/event-driven routing, de-duplication, watermarking, resumption, and observability.
-- 🧩 Built long-context pipelines (memory tiers, summarization, retrieval stitching, token budget control) with prompt templating and guardrails for consistent outputs.
-- 🧬 Developed social-data-driven persona modeling (Profile/Behavior/Motivation) for personalized generation and preference alignment under goal constraints.
-- ❓ Implemented counter-questioning for intent clarification to convert ambiguous requirements into structured constraints (goals, audience, style, limits).
-- ⚙️ Delivered async tool-calling runtime (checkpoint, retries, idempotency, timeout/rollback, recovery) plus offline replay/evaluation harnesses.
-- 🔒 Ensured production-grade delivery with schema validation, modular architecture, auto-generated diagnostic HTML reports, and AWS Marketplace SaaS Contract integration from subscription → permissions/quota → delivery.
-
-### 🧠 MiniMind Notes - 一站式大模型学习笔记
-
-[![GitHub](https://img.shields.io/badge/GitHub-minimind--notes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyehuang/minimind-notes)
-[![Docs](https://img.shields.io/badge/Docs-minimind--notes-0F7B6C?style=for-the-badge&logo=vitepress&logoColor=white)](https://minimind-notes.vercel.app/)
-
-- 📚 Curated a structured learning note series for LLM foundations and practical workflows.
-- 🧱 Built a VitePress-based one-stop tutorial site for fast navigation and continuous updates.
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-joyehuang.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joyehuang.me)
-[![GitHub](https://img.shields.io/badge/GitHub-joyehuang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joyehuang)
-[![小红书](https://img.shields.io/badge/小红书-Joye_Huang-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/65a14d170000000022017286)
-
-</div>
+[![Blog](https://img.shields.io/badge/Blog-joyehuang.me-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joyehuang.me)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546914882587480)
+[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/65a14d170000000022017286)
+[![minimind.wiki](https://img.shields.io/badge/minimind.wiki-0F7B6C?style=for-the-badge&logo=vitepress&logoColor=white)](https://www.minimind.wiki/)
+[![X](https://img.shields.io/badge/X-@deshiou0604-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deshiou0604)
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=joyehuang&color=58A6FF&style=for-the-badge&label=Profile+Views)
-
-<i>💡 "The best way to predict the future is to invent it." – Alan Kay</i>
-
-⭐️ From [joyehuang](https://github.com/joyehuang) | 🎻 Cello Enthusiast | 🌏 Based in Melbourne
-
-</div>
+🎻 Cello enthusiast · 🌏 Melbourne
