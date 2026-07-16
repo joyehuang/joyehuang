@@ -1,18 +1,7 @@
 # Hi, I'm Joye 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Agent+Full-Stack+Engineer;Context%2FHarness+Engineering;Building+my+own+Clone+Agent)](https://git.io/typing-svg)
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://token-monitor-hub.huangdeshiou.workers.dev/api/public/badge.svg?period=today&theme=dark"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://token-monitor-hub.huangdeshiou.workers.dev/api/public/badge.svg?period=today&theme=light"
-  >
-<img src="https://token-monitor-hub.huangdeshiou.workers.dev/api/public/badge.svg?period=today&theme=dark&v=2">
 
-</picture>
 ## About
 
 CS & Software Engineering @ University of Melbourne, graduating 2027. Currently interning as an Agent engineer across two agent-native products — Tezign's [Atypica](https://atypica.ai) and playyy.ai — focused on agent architecture, context engineering, and harness design.
