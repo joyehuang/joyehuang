@@ -1,41 +1,30 @@
 # Hi, I'm Joye 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Agent+Full-Stack+Engineer;Context%2FHarness+Engineering;Building+my+own+Clone+Agent)](https://git.io/typing-svg)
+I'm a Product Engineer based in Melbourne, studying Computing and Software Engineering at the University of Melbourne and spending much of my time building AI-powered products.
 
-## About
+I don't really separate “how do we build this?” from “should we build this?” or “does this feel right to use?” I enjoy moving between those questions — from product decisions and agent architecture to interface design and the way a button responds. I care about software having a point of view, rather than feeling like another collection of features.
 
-CS & Software Engineering @ University of Melbourne, graduating 2027. Currently interning as an Agent engineer across two agent-native products — Tezign's [Atypica](https://atypica.ai) and playyy.ai — focused on agent architecture, context engineering, and harness design.
-
-I write long-form technical breakdowns on Agent engineering at [joyehuang.me](https://joyehuang.me), and build my open-source explainers in the open.
+Writing is how I work through what I've learned, and community is where those ideas get challenged. Away from the screen, I play piano and cello, and take photos.
 
 ## Currently
 
-- 🧬 **Clone Agent** — building a personal digital twin as a unified agent foundation, using months of interview transcripts, blog posts, and livestreams as core context
-- 🏆 **Summer of Agents 2026** — organizing a community hackathon for Agent engineering, with tracks from onboarding to game-playing agents
+I'm turning the personal agent system I use for development, research, and everyday tasks into an installable, open-source Agent Harness. An initial installer is working in isolation; I'm still bringing the remaining workflows into the distribution before a public release. The goal is a long-term collaborator with memory, shared context, and useful judgment — not another disposable chat window.
 
-## Building
+## My projects
 
-- **[minimind-notes](https://github.com/joyehuang/minimind-notes)** ⭐ 145 — build an LLM from scratch: Transformer, pretraining, SFT, with side-by-side ablation experiments
-- **[Learn-Open-Harness](https://github.com/joyehuang/Learn-Open-Harness)** ⭐ 19 — interactive 12-chapter tutorial on the Agent Loop architecture behind Claude Code, built the day after [OpenHarness](https://github.com/HKUDS/OpenHarness) (HKUDS) launched
+- **[Joye's Blog](https://www.joyehuang.me/)** — My writing on agents, products, and lessons from building, with an interactive terminal to explore it.
+- **[Agent Skills](https://github.com/joyehuang/skills)** — Reusable workflows for learning codebases, research, writing, and content creation.
+- **[MiniMind Notes](https://www.minimind.wiki/)** — A hands-on guide to understanding LLMs through code and experiments.
+- **[Learn OpenHarness](https://learn-open-harness.vercel.app/)** — An interactive guide to agent loops, tools, memory, and multi-agent systems.
+- **[Paperstrike](https://joyehuang.app/)** — A hand-drawn browser FPS with solo arenas and a multiplayer lobby.
 
-## Latest write-up
+## Products I've worked on
 
-*["I spent a day reading OpenHarness's 11,733 lines of code"](https://www.joyehuang.me/blog/20260410---openharnessphase1/post)* — a walkthrough of the Agent Loop architecture behind Claude Code, from CLI boot to the loop's core.
-
-## Experience
-
-- **AIGC R&D Intern** @ Tezign · Oct 2025 – Present — Agent systems & full-stack work on Atypica
-- **Agent Engineer** @ playyy.ai (Canva-style AI design product, remote) — Present
-- Past: AIXCut (AI video-editing agent), fAIshion.ai
-
-## Connect
-
-[![Blog](https://img.shields.io/badge/Blog-joyehuang.me-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joyehuang.me)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546914882587480)
-[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/65a14d170000000022017286)
-[![minimind.wiki](https://img.shields.io/badge/minimind.wiki-0F7B6C?style=for-the-badge&logo=vitepress&logoColor=white)](https://www.minimind.wiki/)
-[![X](https://img.shields.io/badge/X-@deshiou0604-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deshiou0604)
+- **[Atypica](https://atypica.ai/)** — A multi-agent platform for business and consumer research.
+- **[Playyy](https://playyy.ai/)** — An AI-powered image generation and brand design platform.
+- **[AIXCut](https://aixcut.cn/)** — An AI video-editing agent.
+- **[fAIshion](https://www.faishion.ai/)** — An AI virtual try-on and outfit styling platform.
 
 ---
 
-🎻 Cello enthusiast · 🌏 Melbourne
+[Bilibili](https://space.bilibili.com/3546914882587480) · [X](https://x.com/deshiou0604) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/65a14d170000000022017286)
