@@ -1,41 +1,53 @@
 # Hi, I'm Joye 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Agent+Full-Stack+Engineer;Context%2FHarness+Engineering;Building+my+own+Clone+Agent)](https://git.io/typing-svg)
+**Agent Engineer · Full-Stack Builder · Technical Writer**
 
-## About
+I build agents that work beyond a single conversation — with persistent context, reusable skills, and the infrastructure to make their work inspectable and recoverable.
 
-CS & Software Engineering @ University of Melbourne, graduating 2027. Currently interning as an Agent engineer across two agent-native products — Tezign's [Atypica](https://atypica.ai) and playyy.ai — focused on agent architecture, context engineering, and harness design.
+My focus is **Harness Engineering**: turning model capabilities into dependable systems, from memory and tool access to background execution, evaluation, and human oversight.
 
-I write long-form technical breakdowns on Agent engineering at [joyehuang.me](https://joyehuang.me), and build my open-source explainers in the open.
+Based in Melbourne · Computing & Software Engineering @ University of Melbourne · Class of 2027
 
-## Currently
+[Read my blog](https://www.joyehuang.me/) · [Explore my skills](https://github.com/joyehuang/skills) · [Watch on Bilibili](https://space.bilibili.com/3546914882587480)
 
-- 🧬 **Clone Agent** — building a personal digital twin as a unified agent foundation, using months of interview transcripts, blog posts, and livestreams as core context
-- 🏆 **Summer of Agents 2026** — organizing a community hackathon for Agent engineering, with tracks from onboarding to game-playing agents
+## Building agents I can actually work with
 
-## Building
+My main ongoing project is a **personal Agent Harness** — a system I use for development, research, and everyday workflows, not just a chatbot demo.
 
-- **[minimind-notes](https://github.com/joyehuang/minimind-notes)** ⭐ 145 — build an LLM from scratch: Transformer, pretraining, SFT, with side-by-side ablation experiments
-- **[Learn-Open-Harness](https://github.com/joyehuang/Learn-Open-Harness)** ⭐ 19 — interactive 12-chapter tutorial on the Agent Loop architecture behind Claude Code, built the day after [OpenHarness](https://github.com/HKUDS/OpenHarness) (HKUDS) launched
+- **Context & memory** — persistent preferences, searchable conversation history, and reusable procedural knowledge.
+- **Long-running work** — background task execution, explicit acceptance checks, and result delivery with recovery mechanisms.
+- **Bounded autonomy** — scoped tools, identity-aware access, and human approval at consequential boundaries.
+- **Observable behavior** — inspectable execution traces, regression tests, and evaluation cases drawn from real interactions.
 
-## Latest write-up
+A knowledge agent grounded in my public writing brings this work into my community. The longer-term goal: an agent with continuity, useful judgment, and shared context — a collaborator, not a disposable chat window.
 
-*["I spent a day reading OpenHarness's 11,733 lines of code"](https://www.joyehuang.me/blog/20260410---openharnessphase1/post)* — a walkthrough of the Agent Loop architecture behind Claude Code, from CLI boot to the loop's core.
+**In progress:** packaging the personal harness into a reproducible, installable open-source system. The complete distribution is not public yet; current building blocks include [runtime extensions](https://github.com/joyehuang/pi-agent-config), [skills](https://github.com/joyehuang/skills), and [a trajectory viewer](https://github.com/joyehuang/trajectory-panel).
 
-## Experience
+## Selected work
 
-- **AIGC R&D Intern** @ Tezign · Oct 2025 – Present — Agent systems & full-stack work on Atypica
-- **Agent Engineer** @ playyy.ai (Canva-style AI design product, remote) — Present
-- Past: AIXCut (AI video-editing agent), fAIshion.ai
+### [joyehuang.me](https://www.joyehuang.me/) — my engineering notebook, built as a product
 
-## Connect
+Long-form Agent engineering articles, source-code walkthroughs, and practical lessons from shipping real systems. An interactive terminal and agent-readable knowledge interfaces make the site a place to explore, not just scroll.
 
-[![Blog](https://img.shields.io/badge/Blog-joyehuang.me-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joyehuang.me)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546914882587480)
-[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/65a14d170000000022017286)
-[![minimind.wiki](https://img.shields.io/badge/minimind.wiki-0F7B6C?style=for-the-badge&logo=vitepress&logoColor=white)](https://www.minimind.wiki/)
-[![X](https://img.shields.io/badge/X-@deshiou0604-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/deshiou0604)
+[Source](https://github.com/joyehuang/blog)
 
----
+### [Agent Skills](https://github.com/joyehuang/skills) — workflows worth reusing
 
-🎻 Cello enthusiast · 🌏 Melbourne
+Reusable skills for codebase learning, technical writing, research, and content production. Portable skills are separated from machine-specific workflows: the goal is reusable know-how, not a pile of prompts.
+
+### [Trajectory Panel](https://github.com/joyehuang/trajectory-panel) — see what an agent actually did
+
+A searchable timeline of conversations, tool calls, results, and token usage. The public demo uses synthetic sessions; local files can be explored in the browser without uploading them.
+
+### Learn by rebuilding
+
+- **[MiniMind Notes](https://github.com/joyehuang/minimind-notes)** — understand Transformer architecture, pretraining, and SFT through code and controlled experiments. [Read the guide](https://www.minimind.wiki/).
+- **[Learn OpenHarness](https://github.com/joyehuang/Learn-Open-Harness)** — a 12-chapter interactive introduction to agent loops, tools, memory, and multi-agent systems. [Explore the tutorial](https://learn-open-harness.vercel.app/).
+
+## Beyond the code
+
+I write about what I build, host community technical discussions, and organize **Summer of Agents**, a community Agent-building competition.
+
+Away from the terminal: piano, cello, and photography.
+
+[Blog](https://www.joyehuang.me/) · [Bilibili](https://space.bilibili.com/3546914882587480) · [X](https://x.com/deshiou0604) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/65a14d170000000022017286)
