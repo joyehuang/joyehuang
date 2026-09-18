@@ -1,21 +1,30 @@
-# Hey, I'm Joye 👋
+# Hi, I'm Joye 👋
 
-Usually building an agent, taking one apart, or writing far too much about it.
+I'm a Product Engineer based in Melbourne, studying Computing and Software Engineering at the University of Melbourne and spending much of my time building AI-powered products.
 
-Studying at the University of Melbourne. Occasionally away from the keyboard, at a piano or with a cello.
+I don't really separate “how do we build this?” from “should we build this?” or “does this feel right to use?” I enjoy moving between those questions — from product decisions and agent architecture to interface design and the way a button responds. I care about software having a point of view, rather than feeling like another collection of features.
 
-### My little corner of the internet
+Writing is how I work through what I've learned, and community is where those ideas get challenged. Away from the screen, I play piano and cello, and take photos.
 
-- [joyehuang.me](https://www.joyehuang.me/) — my blog, with a terminal hidden inside.
-- [Skills](https://github.com/joyehuang/skills) — things I got tired of teaching my agents twice.
-- [MiniMind Notes](https://www.minimind.wiki/) — learning how LLMs work by building one.
-- [Learn OpenHarness](https://learn-open-harness.vercel.app/) — taking an agent loop apart, one chapter at a time.
-- [Trajectory Panel](https://github.com/joyehuang/trajectory-panel) — what did the agent actually do?
-- [Paperstrike](https://joyehuang.app/) — a hand-drawn browser FPS. Not everything has to be an agent.
+## Currently
 
-### Products I've worked on
+I'm turning the personal agent system I use for development, research, and everyday tasks into an installable, open-source Agent Harness. An initial installer is working in isolation; I'm still bringing the remaining workflows into the distribution before a public release. The goal is a long-term collaborator with memory, shared context, and useful judgment — not another disposable chat window.
 
-[Atypica](https://atypica.ai/) · [Playyy](https://playyy.ai/) · [AIXCut](https://aixcut.cn/) · [fAIshion](https://www.faishion.ai/)
+## My projects
+
+- **[Joye's Blog](https://www.joyehuang.me/)** — My writing on agents, products, and lessons from building, with an interactive terminal to explore it.
+- **[Agent Skills](https://github.com/joyehuang/skills)** — Reusable workflows for learning codebases, research, writing, and content creation.
+- **[MiniMind Notes](https://www.minimind.wiki/)** — A hands-on guide to understanding LLMs through code and experiments.
+- **[Learn OpenHarness](https://learn-open-harness.vercel.app/)** — An interactive guide to agent loops, tools, memory, and multi-agent systems.
+- **[面试手记](https://joyehuang.dev/)** — A project for sharing real Agent interview transcripts and reflections; currently open for early-access signups.
+- **[Paperstrike](https://joyehuang.app/)** — A hand-drawn browser FPS with solo arenas and a multiplayer lobby.
+
+## Products I've worked on
+
+- **[Atypica](https://atypica.ai/)** — A multi-agent platform for business and consumer research.
+- **[Playyy](https://playyy.ai/)** — An AI-powered image generation and brand design platform.
+- **[AIXCut](https://aixcut.cn/)** — An AI video-editing agent.
+- **[fAIshion](https://www.faishion.ai/)** — An AI virtual try-on and outfit styling platform.
 
 ---
 
