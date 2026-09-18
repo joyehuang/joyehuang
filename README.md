@@ -16,7 +16,6 @@ I'm turning the personal agent system I use for development, research, and every
 - **[Agent Skills](https://github.com/joyehuang/skills)** — Reusable workflows for learning codebases, research, writing, and content creation.
 - **[MiniMind Notes](https://www.minimind.wiki/)** — A hands-on guide to understanding LLMs through code and experiments.
 - **[Learn OpenHarness](https://learn-open-harness.vercel.app/)** — An interactive guide to agent loops, tools, memory, and multi-agent systems.
-- **[面试手记](https://joyehuang.dev/)** — A project for sharing real Agent interview transcripts and reflections; currently open for early-access signups.
 - **[Paperstrike](https://joyehuang.app/)** — A hand-drawn browser FPS with solo arenas and a multiplayer lobby.
 
 ## Products I've worked on
